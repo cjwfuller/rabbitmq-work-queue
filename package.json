@@ -1,0 +1,10 @@
+{
+  "name": "rabbitmq-work-queue",
+  "version": "1.0.0",
+  "dependencies": {
+    "amqplib": "^0.4.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
